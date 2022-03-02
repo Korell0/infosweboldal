@@ -45,7 +45,9 @@ body > h1{
     height: 100px;
 
 }
-
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
 .navbar{
     font-size:xx-large;
     text-indent: 100px;
