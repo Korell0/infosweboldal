@@ -23,5 +23,8 @@ body > h1{
 .navbar{
     font-size:xx-large;
     text-indent: 100px;
+}
 
+.navbar-brand{
+    font-size: xx-large;
 }
