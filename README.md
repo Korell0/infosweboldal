@@ -6,3 +6,5 @@
 1.magárol a cégről
 2.rólunk mint egy önéletrajz
 3.szolgáltatásaink
+
+Én mit csináljak? xd - Stewie
