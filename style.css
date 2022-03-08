@@ -54,3 +54,14 @@ body > h1{
 .navbar-brand{
     font-size: xx-large;
 }
+
+.bit-larger{
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline red solid;
+}
+.large{
+    font-size: large;
+    text-align: center;
+    text-decoration: underline red solid;
+}
