@@ -23,6 +23,7 @@ thead > tr > th{
 tbody > tr > td{
     border: 3px solid gray;
 }
+
 table > tfoot{
     border: 3px solid gray;
     background-color: blanchedalmond;
@@ -93,13 +94,13 @@ ol > li{
     font-size: xx-large;
 }
 footer {
-    position:absolute;
+    position:fixed;
     bottom:0;
     width:100%;
     height:60px; 
     background:rgb(86, 88, 88);
     text-align: center;
-    font-size: 36px;
+    font-size: xx-large;
     color: lightgrey;
  }
 
