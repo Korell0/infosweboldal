@@ -56,7 +56,6 @@ body > h1{
 .navbar-brand{
     font-size: xx-large;
 }
-
 footer {
     position:absolute;
     bottom:0;
@@ -71,3 +70,14 @@ footer {
  section{
      font-size: 26px;
  }
+.bit-larger{
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline red solid;
+}
+.large{
+    font-size: large;
+    text-align: center;
+    text-decoration: underline red solid;
+}
+
