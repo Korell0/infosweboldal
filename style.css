@@ -67,3 +67,15 @@ body > h1{
     text-align: center;
     text-decoration: underline red solid;
 }
+.alahuzott{
+    text-decoration: underline black solid;
+}
+#meme{
+    height: 15%;
+    width: 15%;
+    align-items: baseline;
+}
+#bemutatkozas{
+    width: 1080px;
+    text-align: center;
+}
