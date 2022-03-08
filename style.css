@@ -22,6 +22,7 @@ thead > tr > th{
 }
 tbody > tr > td{
     border: 3px solid gray;
+    width: 33%;
 }
 
 table > tfoot{
